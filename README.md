@@ -1,6 +1,6 @@
 # About me
 
-As a student programmer, I am thrilled to continue learning and gain practical experience in the field.
+I am thrilled to continue learning and gain practical experience in the field.
 
 My objective is to enhance my skills and become proficient in various programming languages and technologies. 
 
